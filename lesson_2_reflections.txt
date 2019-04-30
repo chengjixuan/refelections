@@ -1,1 +1,16 @@
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+    Let you have good organize. And keep your job!
+    When you have staging area's file git diff will diff from working directory and staging area
+
+How can you use the staging area to make sure you have one commit per logical change?
+    Add your logical change to staging area and do git commit.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+    When you want to add some new feature but you don't know if it is offcial, or it is a 
+    good idea.
+    Keep the main code safe. You can change whatever you want to change on your own branch.
+
+How do the diagrams help you visualize the branch structure?
+    It helps if I understand totally
