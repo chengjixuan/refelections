@@ -14,3 +14,8 @@ How would branches help?
 
 How do the diagrams help you visualize the branch structure?
     It helps if I understand totally
+
+What is the result of merging two branches together? 
+    put two branch change together, so can parallel coding
+Why do we represent it in the diagram the way we do?
+    easy to understand what git does
